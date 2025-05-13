@@ -31,7 +31,7 @@ npm install
 PORT=5000
 MONGO_URI=mongodb+srv://<username>:<password>@<cluster-url>.mongodb.net/<dbname>?retryWrites=true&w=majority
 ```
-Replace <username>, <password>, <cluster-url>, and <dbname> with your MongoDB Atlas details
+- Replace <username>, <password>, <cluster-url>, and <dbname> with your MongoDB Atlas details
 
 ### 4️⃣ Run the backend server
 ```bash
